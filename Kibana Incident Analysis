@@ -1,17 +1,11 @@
 Assignment Instructions 
-
 Using Kibana to analyze logs taken during the Red Team attack, use the data to develop ideas for new alerts that can improve your monitoring. 
 
 After creating your dashboard and becoming familiar with the search syntax, use these tools to answer the questions below: 
 
-Identify the offensive traffic. 
- 
- 
-
 Identify the traffic between your machine and the web machine: 
-
 When did the interaction occur? 
-May 1, 2021 from 6pm to 9pm 
+**May 1, 2021 from 6pm to 9pm**
 
 What responses did the victim send back? 
 404, 200, 400 
