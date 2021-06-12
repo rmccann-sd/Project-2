@@ -2,7 +2,7 @@
 A Red Team vs Blue Team scenario where students play both the Pentester role and the SOC analyst.
 
 
-![Slide1](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide1.PNG)
+![Slide1](https://github.com/rmccann-sd/Project-2/blob/3b24e65eaf4bc68397f8cfadb452256fe269f2fb/images/Slide1.PNG)
 ![Slide2](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide2.PNG)
 ![Slide3](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide3.PNG)
 ![Slide4](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide4.PNG)
