@@ -2,6 +2,32 @@
 A Red Team vs Blue Team scenario where students play both the Pentester role and the SOC analyst.
 
 
-!https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide1.PNG
-!https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide2.PNG
-!https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide3.PNG
+![Slide1](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide1.PNG)
+![Slide2](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide2.PNG)
+![Slide3](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide3.PNG)
+![Slide4](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide4.PNG)
+![Slide5](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide5.PNG)
+![Slide6](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide6.PNG)
+![Slide7](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide7.PNG)
+![Slide8](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide8.PNG)
+![Slide9](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide9.PNG)
+![Slide10](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide10.PNG)
+![Slide11](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide11.PNG)
+![Slide12](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide12.PNG)
+![Slide13](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide13.PNG)
+![Slide14](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide14.PNG)
+![Slide15](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide15.PNG)
+![Slide16](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide16.PNG)
+![Slide17](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide17.PNG)
+![Slide18](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide18.PNG)
+![Slide19](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide19.PNG)
+![Slide20](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide20.PNG)
+![Slide21](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide21.PNG)
+![Slide22](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide22.PNG)
+![Slide23](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide23.PNG)
+![Slide24](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide24.PNG)
+![Slide25](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide25.PNG)
+![Slide26](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide26.PNG)
+![Slide27](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide27.PNG)
+![Slide28](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide28.PNG)
+![Slide29](https://github.com/rmccann-sd/Project-2/blob/d2feca30301269d82d28c1fc9b2ce20c193e4951/Slide29.PNG)
